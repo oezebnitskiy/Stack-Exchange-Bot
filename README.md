@@ -2,7 +2,7 @@
 
 Simple "almost"-no-code bot, that posts most viewed questions from stack exchange boards.
 
-Architecture:
+- Architecture:
     - sanic server
         - parse se website
         - keeps track of sent messages
